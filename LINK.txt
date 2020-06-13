@@ -1,0 +1,6 @@
+Python 3.8 Download link
+	https://www.python.org/ftp/python/3.8.3/python-3.8.3.exe
+	https://drive.google.com/drive/u/2/folders/1JQX7Zu5kx-aZlIYaF7eIU7zzIOZ35XbL
+
+DSSAT Soil Download Link
+	https://dataverse.harvard.edu/file.xhtml?persistentId=doi:10.7910/DVN/1PEEY0/CIMWRJ&version=2.6
